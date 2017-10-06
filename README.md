@@ -1,4 +1,4 @@
-# DatabaseConcepts
+# Database Concepts
 
 # Case Study Business Rules
 
